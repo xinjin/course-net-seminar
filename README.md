@@ -14,9 +14,9 @@ In this course we will read, discuss and present classic papers and current rese
 
 For 2019 fall semester, we will focus on programmable networks, streaming algorithms, sketches, and the intersection of AI and networking.
 
-| Date    | Topics  | Notes   |
+| Date    | Topics  | Presenter   |
 | :------ | :------ | :------ |
-| Wed 09/04 | SwitchML ([pdf](https://arxiv.org/abs/1903.06701)) | Zhuolong |
+| Wed 09/04 | Scaling Distributed Machine Learning with In-Network Aggregation ([pdf](https://arxiv.org/abs/1903.06701)) | Zhuolong |
 
 
 
