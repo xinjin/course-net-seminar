@@ -17,6 +17,7 @@ For 2019 fall semester, we will focus on programmable networks, streaming algori
 | Date    | Topics  | Presenter   |
 | :------ | :------ | :------ |
 | Wed 09/04 | Scaling Distributed Machine Learning with In-Network Aggregation ([pdf](https://arxiv.org/abs/1903.06701)) | Zhuolong |
+| Wed 09/11 | Gandiva: Introspective Cluster Scheduling for Deep Learning ([pdf](https://www.usenix.org/system/files/osdi18-xiao.pdf)) | Zhihao |
 
 
 
