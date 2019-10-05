@@ -20,3 +20,4 @@ For 2019 fall semester, we will focus on programmable networks, streaming algori
 | Wed 09/11 | Gandiva: Introspective Cluster Scheduling for Deep Learning ([pdf](https://www.usenix.org/system/files/osdi18-xiao.pdf)) | Zhihao |
 | Wed 09/25 | Packet Transactions: High-Level Programming for Line-Rate Switches ([pdf](https://cs.nyu.edu/~anirudh/domino-sigcomm.pdf)) | Hang |
 | Wed 10/02 | A Generic Communication Scheduler for Distributed DNN Training Acceleration ([pdf](https://i.cs.hku.hk/~cwu/papers/yhpeng-sosp19.pdf)) | Zhihao |
+| Wed 10/08 | Floem: A Programming System for NIC-Accelerated Network Applications ([pdf](https://www.usenix.org/conference/osdi18/presentation/phothilimthana)) | Hang |
