@@ -23,4 +23,5 @@ For 2019 fall semester, we will focus on programmable networks, streaming algori
 | Wed 10/08 | Floem: A Programming System for NIC-Accelerated Network Applications ([pdf](https://www.usenix.org/conference/osdi18/presentation/phothilimthana)) | Hang |
 | Wed 10/16 | Making Sense of Performance in Data Analytics Frameworks ([pdf](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-ousterhout.pdf)) | Zhen |
 | Wed 10/23 | Offloading Distributed Applications onto SmartNICs using iPipe ([pdf](https://homes.cs.washington.edu/~arvind/papers/ipipe.pdf)) | Zhuolong |
+| Wed 10/30 | SP-PIFO: Approximating Push-In First-Out Behaviors using Strict-Priority Queues ([pdf](https://nsg.ee.ethz.ch/fileadmin/user_upload/SP-PIFO.pdf)) | Zhihao |
 | Wed 11/06 | My current project | Hang |
