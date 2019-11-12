@@ -25,3 +25,4 @@ For 2019 fall semester, we will focus on programmable networks, streaming algori
 | Wed 10/23 | Offloading Distributed Applications onto SmartNICs using iPipe ([pdf](https://homes.cs.washington.edu/~arvind/papers/ipipe.pdf)) | Zhuolong |
 | Wed 10/30 | SP-PIFO: Approximating Push-In First-Out Behaviors using Strict-Priority Queues ([pdf](https://nsg.ee.ethz.ch/fileadmin/user_upload/SP-PIFO.pdf)) | Zhihao |
 | Wed 11/06 | My current project | Hang |
+| Wed 11/13 | QPipe: Quantiles Sketch Fully in the Data Plane ([pdf](http://cs.jhu.edu/~zhuolong/papers/conext19qpipe.pdf)) | Zhuolong |
