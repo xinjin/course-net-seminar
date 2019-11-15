@@ -26,3 +26,4 @@ For 2019 fall semester, we will focus on programmable networks, streaming algori
 | Wed 10/30 | SP-PIFO: Approximating Push-In First-Out Behaviors using Strict-Priority Queues ([pdf](https://nsg.ee.ethz.ch/fileadmin/user_upload/SP-PIFO.pdf)) | Zhihao |
 | Wed 11/06 | My current project | Hang |
 | Wed 11/13 | QPipe: Quantiles Sketch Fully in the Data Plane ([pdf](http://cs.jhu.edu/~zhuolong/papers/conext19qpipe.pdf)) | Zhuolong |
+| Wed 11/20 | Beyond fat-trees without antennae, mirrors, and disco-balls ([pdf](https://www.cse.huji.ac.il/~mestrebisli/pubs/2017/fatfree.pdf)) | Zhen |
