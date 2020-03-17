@@ -17,7 +17,7 @@ For 2020 spring semester, we will focus on programmable networks, streaming algo
 
 | Date    | Topics  | Presenter   |
 | :------ | :------ | :------ |
-| Tue 02/25 | | |
+| Tue 02/25 | Programmable Calendar Queues for High-speed Packet Scheduling ([pdf](https://www.usenix.org/system/files/nsdi20-paper-sharma.pdf)) | Zhuolong Yu |
 | Tue 03/03 | TCP ≈ RDMA : CPU-efficient Remote Storage Access with i10 ([pdf](https://www.usenix.org/system/files/nsdi20-paper-hwang.pdf) [slides](https://www.usenix.org/sites/default/files/conference/protected-files/nsdi20_slides_hwang.pdf) )| Zhen Zhang |
 | Tue 03/10 | IronFleet: Proving Practical Distributed Systems Correct ([pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/10/ironfleet.pdf)) | Hang Zhu |
 | Tue 03/17 | Sol: Fast Distributed Computation Over Slow Networks ([pdf](https://www.usenix.org/system/files/nsdi20-paper-lai.pdf)) | Zhihao Bai |
