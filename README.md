@@ -12,6 +12,16 @@ In this course we will read, discuss and present classic papers and current rese
 
 ## Course Syllabus
 
+
+For 2020 spring semester, we will focus on programmable networks, streaming algorithms, sketches, machine learning systems, and the intersection of AI and networking.
+
+| Date    | Topics  | Presenter   |
+| :------ | :------ | :------ |
+| Tue 02/25 | | |
+| Tue 03/03 | | |
+| Tue 03/10 | | |
+| Tue 03/17 | | |
+
 For 2019 fall semester, we will focus on programmable networks, streaming algorithms, sketches, and the intersection of AI and networking.
 
 | Date    | Topics  | Presenter   |
