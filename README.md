@@ -22,6 +22,7 @@ For 2020 spring semester, we will focus on programmable networks, streaming algo
 | Tue 03/10 | IronFleet: Proving Practical Distributed Systems Correct ([pdf](https://www.microsoft.com/en-us/research/wp-content/uploads/2015/10/ironfleet.pdf)) | Hang Zhu |
 | Tue 03/17 | Sol: Fast Distributed Computation Over Slow Networks ([pdf](https://www.usenix.org/system/files/nsdi20-paper-lai.pdf)) | Zhihao Bai |
 | Tue 03/24 | 2DFQ: Two-Dimensional Fair Queuing for Multi-Tenant Cloud Services ([pdf](https://cs.brown.edu/~jcmace/papers/mace162dfq.pdf)) | Zhuolong Yu |
+| Tue 03/31 | THEMIS: Fair and Efficient GPU Cluster Scheduling ([pdf](https://www.usenix.org/system/files/nsdi20-paper-mahajan.pdf)) | Zhen Zhang |
 
 For 2019 fall semester, we will focus on programmable networks, streaming algorithms, sketches, and the intersection of AI and networking.
 
