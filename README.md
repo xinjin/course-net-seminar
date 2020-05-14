@@ -29,6 +29,7 @@ For 2020 spring semester, we will focus on programmable networks, streaming algo
 | Tue 04/28 | Cliffhanger: Scaling Performance Cliffs in Web Memory Caches ([pdf](https://www.usenix.org/conference/nsdi16/technical-sessions/presentation/cidon)) | Zhen Zhang |
 | Tue 05/05 | FileMR: Rethinking RDMA Networking for Scalable Persistent Memory ([pdf](https://www.usenix.org/conference/nsdi20/presentation/yang)) | Hang Zhu |
 | Tue 05/12 | Firecracker: Lightweight Virtualization for Serverless Applications ([pdf](https://www.usenix.org/conference/nsdi20/presentation/agache)) | Zhihao Bai |
+| Tue 05/19 | Optimizing Data-Intensive Computations in Existing Libraries with Split Annotations ([pdf](https://cs.stanford.edu/~matei/papers/2019/sosp_split_annotations.pdf)) | Zhuolong Yu |
 
 For 2019 fall semester, we will focus on programmable networks, streaming algorithms, sketches, and the intersection of AI and networking.
 
