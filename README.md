@@ -31,6 +31,7 @@ For 2020 spring semester, we will focus on programmable networks, streaming algo
 | Tue 05/12 | Firecracker: Lightweight Virtualization for Serverless Applications ([pdf](https://www.usenix.org/conference/nsdi20/presentation/agache)) | Zhihao Bai |
 | Tue 05/19 | Optimizing Data-Intensive Computations in Existing Libraries with Split Annotations ([pdf](https://cs.stanford.edu/~matei/papers/2019/sosp_split_annotations.pdf)) | Zhuolong Yu |
 | Tue 06/08 | PLINK: DISCOVERING AND EXPLOITING DATACENTER NETWORK LOCALITY FOR EFFICIENT CLOUD-BASED DISTRIBUTED TRAINING ([pdf](https://homes.cs.washington.edu/~arvind/papers/plink.pdf)) | Zhen Zhang |
+| Tue 06/16 | Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation ([pdf](http://papers.nips.cc/paper/7877-graph-convolutional-policy-network-for-goal-directed-molecular-graph-generation.pdf)) | Hang Zhu |
 
 For 2019 fall semester, we will focus on programmable networks, streaming algorithms, sketches, and the intersection of AI and networking.
 
