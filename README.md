@@ -33,6 +33,7 @@ For 2020 spring semester, we will focus on programmable networks, streaming algo
 | Tue 06/08 | PLINK: DISCOVERING AND EXPLOITING DATACENTER NETWORK LOCALITY FOR EFFICIENT CLOUD-BASED DISTRIBUTED TRAINING ([pdf](https://homes.cs.washington.edu/~arvind/papers/plink.pdf)) | Zhen Zhang |
 | Tue 06/16 | Graph Convolutional Policy Network for Goal-Directed Molecular Graph Generation ([pdf](http://papers.nips.cc/paper/7877-graph-convolutional-policy-network-for-goal-directed-molecular-graph-generation.pdf)) | Hang Zhu |
 | Tue 06/23 | DeepRecSys: A System for Optimizing End-to-End At-Scale Neural Recommendation Inference ([pdf](http://vlsiarch.eecs.harvard.edu/wp-content/uploads/2020/05/DeepRecSys_Gupta_ISCA2020.pdf)) | Zhihao Bai |
+| Tue 06/30 | Designing Distributed Tree-based Index Structures for Fast RDMA-capable Networks ([pdf](https://readingxtra.github.io/docs/RMDA/icmd19-ziegler.pdf)) | Zhuolong Yu |
 
 For 2019 fall semester, we will focus on programmable networks, streaming algorithms, sketches, and the intersection of AI and networking.
 
