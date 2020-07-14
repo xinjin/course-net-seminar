@@ -35,7 +35,7 @@ For 2020 spring semester, we will focus on programmable networks, streaming algo
 | Tue 06/23 | DeepRecSys: A System for Optimizing End-to-End At-Scale Neural Recommendation Inference ([pdf](http://vlsiarch.eecs.harvard.edu/wp-content/uploads/2020/05/DeepRecSys_Gupta_ISCA2020.pdf)) | Zhihao Bai |
 | Tue 06/30 | Designing Distributed Tree-based Index Structures for Fast RDMA-capable Networks ([pdf](https://readingxtra.github.io/docs/RMDA/icmd19-ziegler.pdf)) | Zhuolong Yu |
 | Tue 07/07 | Capuchin: Tensor-based GPU Memory Management for Deep Learning ([website](https://dl.acm.org/doi/abs/10.1145/3373376.3378505)) | Zhen Zhang |
-| Tue 07/14 | Harmonia: Near-Linear Scalability for Replicated Storage with In-Network Conflict Detection ([website](https://www.cs.jhu.edu/~xinjin/files/VLDB19_Harmonia.pdf)) | Hang Zhu |
+| Tue 07/14 | Harmonia: Near-Linear Scalability for Replicated Storage with In-Network Conflict Detection ([pdf](https://www.cs.jhu.edu/~xinjin/files/VLDB19_Harmonia.pdf)) | Hang Zhu |
 
 For 2019 fall semester, we will focus on programmable networks, streaming algorithms, sketches, and the intersection of AI and networking.
 
