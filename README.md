@@ -40,6 +40,7 @@ For 2020 spring semester, we will focus on programmable networks, streaming algo
 | Tue 07/28 | Is Network the Bottleneck of Distributed Training? ([pdf](https://arxiv.org/pdf/2006.10103.pdf))| Zhen Zhang |
 | Tue 08/04 | Harmonia: Near-Linear Scalability for Replicated Storage with In-Network Conflict Detection ([pdf](https://www.cs.jhu.edu/~xinjin/files/VLDB19_Harmonia.pdf)) | Hang Zhu |
 | Tue 08/11 | RecNMP: Accelerating Personalized Recommendation with Near-Memory Processing ([pdf](https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a790/466100a790.pdf))| Zhihao Bai |
+| Tue 08/18 | Caching with Delayed Hits ([pdf](https://dl.acm.org/doi/pdf/10.1145/3387514.3405883))| Zhuolong Yu |
 
 For 2019 fall semester, we will focus on programmable networks, streaming algorithms, sketches, and the intersection of AI and networking.
 
