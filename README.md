@@ -12,8 +12,13 @@ In this course we will read, discuss and present classic papers and current rese
 
 ## Course Syllabus
 
+For fall 2020 semester, we will focus on programmable networks, streaming algorithms, sketches, machine learning systems, and the intersection of AI and networking. Time: Wednesday, 4-5pm.
 
-For 2020 spring semester, we will focus on programmable networks, streaming algorithms, sketches, machine learning systems, and the intersection of AI and networking.
+| Date    | Topics  | Presenter   |
+| :------ | :------ | :------ |
+| Wed 09/02 | TBD | TBD |
+
+For spring 2020 semester, we will focus on programmable networks, streaming algorithms, sketches, machine learning systems, and the intersection of AI and networking. Time: Tuesday, 4-5pm.
 
 | Date    | Topics  | Presenter   |
 | :------ | :------ | :------ |
@@ -43,7 +48,7 @@ For 2020 spring semester, we will focus on programmable networks, streaming algo
 | Tue 08/18 | Caching with Delayed Hits ([pdf](https://dl.acm.org/doi/pdf/10.1145/3387514.3405883))| Zhuolong Yu |
 | Tue 08/25 | Zero Downtime Release: Disruption-free Load Balancing of a Multi-Billion User Website ([pdf](https://dl.acm.org/doi/abs/10.1145/3387514.3405885))| Zhen Zhang |
 
-For 2019 fall semester, we will focus on programmable networks, streaming algorithms, sketches, and the intersection of AI and networking.
+For fall 2019 semester, we will focus on programmable networks, streaming algorithms, sketches, and the intersection of AI and networking. Time: Wednesday, 4-5pm.
 
 | Date    | Topics  | Presenter   |
 | :------ | :------ | :------ |
