@@ -16,7 +16,7 @@ For fall 2020 semester, we will focus on programmable networks, streaming algori
 
 | Date    | Topics  | Presenter   |
 | :------ | :------ | :------ |
-| Wed 09/02 | TBD | TBD |
+| Wed 09/02 | Understanding PCIe performance for end host networking ([pdf](https://dl.acm.org/doi/pdf/10.1145/3230543.3230560)) | Hang Zhu |
 
 For spring 2020 semester, we will focus on programmable networks, streaming algorithms, sketches, machine learning systems, and the intersection of AI and networking. Time: Tuesday, 4-5pm.
 
