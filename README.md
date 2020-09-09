@@ -47,6 +47,8 @@ For spring 2020 semester, we will focus on programmable networks, streaming algo
 | Tue 08/11 | RecNMP: Accelerating Personalized Recommendation with Near-Memory Processing ([pdf](https://conferences.computer.org/isca/pdfs/ISCA2020-4QlDegUf3fKiwUXfV0KdCm/466100a790/466100a790.pdf))| Zhihao Bai |
 | Tue 08/18 | Caching with Delayed Hits ([pdf](https://dl.acm.org/doi/pdf/10.1145/3387514.3405883))| Zhuolong Yu |
 | Tue 08/25 | Zero Downtime Release: Disruption-free Load Balancing of a Multi-Billion User Website ([pdf](https://dl.acm.org/doi/abs/10.1145/3387514.3405885))| Zhen Zhang |
+| Wed 09/02 | ?| ? |
+| Wed 09/09 | Serving DNNs like Clockwork: Performance Predictability from the Bottom Up ([pdf](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2006.02464.pdf))| Zhihao Bai |
 
 For fall 2019 semester, we will focus on programmable networks, streaming algorithms, sketches, and the intersection of AI and networking. Time: Wednesday, 4-5pm.
 
