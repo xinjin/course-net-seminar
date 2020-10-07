@@ -20,7 +20,7 @@ For fall 2020 semester, we will focus on programmable networks, streaming algori
 | Wed 09/09 | Serving DNNs like Clockwork: Performance Predictability from the Bottom Up ([pdf](https://link.zhihu.com/?target=https%3A//arxiv.org/pdf/2006.02464.pdf))| Zhihao Bai |
 | Wed 09/16 | Probabilistic Verification of Network Configurations ([pdf](https://dl.acm.org/doi/pdf/10.1145/3387514.3405900))| Zhuolong Yu |
 | Wed 09/30 | Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads ([pdf](https://arxiv.org/pdf/2008.09213.pdf))| Zhen Zhang |
-
+| Wed 10/07 | RackSched: A Microsecond-Scale Scheduler for Rack-Scale Computers ([pdf](https://www.usenix.org/conference/osdi20/presentation/zhu))| Hang Zhu |
 
 For spring 2020 semester, we will focus on programmable networks, streaming algorithms, sketches, machine learning systems, and the intersection of AI and networking. Time: Tuesday, 4-5pm.
 
