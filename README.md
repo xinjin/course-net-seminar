@@ -22,6 +22,8 @@ For fall 2020 semester, we will focus on programmable networks, streaming algori
 | Wed 09/30 | Heterogeneity-Aware Cluster Scheduling Policies for Deep Learning Workloads ([pdf](https://arxiv.org/pdf/2008.09213.pdf))| Zhen Zhang |
 | Wed 10/07 | RackSched: A Microsecond-Scale Scheduler for Rack-Scale Computers ([pdf](https://www.usenix.org/conference/osdi20/presentation/zhu))| Hang Zhu |
 | Wed 10/28 | Correctness and Performance for Stateful Chained Network Functions ([pdf](https://www.usenix.org/system/files/nsdi19-khalid.pdf))| Zhuolong Yu |
+| Wed 11/04 | A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters
+ | Zhen Zhang |
 
 For spring 2020 semester, we will focus on programmable networks, streaming algorithms, sketches, machine learning systems, and the intersection of AI and networking. Time: Tuesday, 4-5pm.
 
