@@ -25,6 +25,7 @@ For fall 2020 semester, we will focus on programmable networks, streaming algori
 | Wed 11/11 | A Unified Architecture for Accelerating Distributed DNN Training in Heterogeneous GPU/CPU Clusters| Zhen Zhang |
 | Wed 11/18 | Swift: Delay is Simple and Effective for Congestion Control in the Datacenter ([pdf](https://dl.acm.org/doi/pdf/10.1145/3387514.3406591))| Hang Zhu |
 | Wed 12/10 | Information-Agnostic Flow Scheduling for Commodity Data Centers ([pdf](https://www.usenix.org/system/files/conference/nsdi15/nsdi15-paper-bai.pdf))| Zhuolong Yu |
+| Wed 12/17 | AntMan: Dynamic Scaling on GPU Clusters for Deep Learning ([pdf](https://www.usenix.org/system/files/osdi20-xiao.pdf))| Zhihao Bai |
 
 For spring 2020 semester, we will focus on programmable networks, streaming algorithms, sketches, machine learning systems, and the intersection of AI and networking. Time: Tuesday, 4-5pm.
 
